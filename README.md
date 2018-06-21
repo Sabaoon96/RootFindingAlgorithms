@@ -1,5 +1,5 @@
-### Algorithm to find roots of an equation using the bisection method:
+## Newton & Bisection Method Algorithms
 
-- Edit the root_finding.py file 
-- Give it your own function to find roots of
-- You may alter the interval as well
+- Edit whichever method files you'd like to test.
+- Give it your own function / equation to find roots of.
+- You may alter the interval and the tolerance levels as well.
